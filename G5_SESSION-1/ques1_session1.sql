@@ -1,4 +1,4 @@
--- G5_23BAI70147_Chandan_kumar_SESSION1
+
 CREATE TABLE employee (
     emp_id SERIAL PRIMARY KEY,
     emp_name VARCHAR(100),
