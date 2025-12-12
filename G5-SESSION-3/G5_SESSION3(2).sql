@@ -1,6 +1,3 @@
--- Write your PostgreSQL query statement below
---G5_23BAI70147_Chandan_kumar_SESSION3
-
 SELECT 
     v.customer_id, 
     COUNT(*) AS count_no_trans
